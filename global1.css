@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", Arial, Verdana, sans-serif;
+	font-size:14px;
+	color:#333;
+}
+
+b, strong{font-weight: bold;}
+
+i, em{font-style:italic;}
+
+.fullname{
+	color:black;
+	font-weight:normal;
+	font-size:28px;
+	font-family:"Raleigh", sans-serif;
+}
+
+
+.classtitle{
+	/*color:#fff;*/
+	color: #fff; /*#60311B; /*maroon;*/
+	font-weight:bolder;
+	display:block;
+	font-size:30px;
+	margin:10px auto 10px auto;
+}
+
+.title{color:#fff; display:block; font-size:14px; line-height:17px;}
+
+h1{
+	font-size: 24px;
+	font-weight: bolder;
+	/*color:#c15d00;*/
+	color:#000;
+	margin: 25px 0px 5px 0px;
+}
+
+/*h2{ color: #6a5947; font-size: 18px; font-weight:bold; margin: 15px 0px 5px 0px;}*/
+
+h2{ color:black; font-size: 18px; font-weight:bold; margin: 15px 0px 5px 0px;}
+
+ul li{list-style:circle; margin-left:25px;}
+
+ol li{list-style:decimal; margin-left:25px;}
+
+li{margin-top: 3px; margin-bottom: 3px;}
+
+a {color:#06c; text-decoration:none;}
+
+a:hover{text-decoration:underline;}
+
+#credit{
+color: #ccc;
+height: 10px;
+position: relative;
+width: 900px;
+text-align:center;
+margin-top: 50px;
+
+}
+
+#credit a{
+	color: #aaa;
+}
+
+
+
+#cssTable td
+{
+    height:15px;
+  /*  width: 40px; */
+    text-align:left;
+    vertical-align:middle;
+    padding:15px;
+}
+
+#amaTable td
+{
+    text-align:left;
+    vertical-align:middle;
+}
+
+.p1 {
+	margin-bottom: 10px;
+}
+
